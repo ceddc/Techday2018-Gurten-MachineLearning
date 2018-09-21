@@ -1,4 +1,4 @@
-# Techda 2018 : "Pop-up" pool detection using ArcGIS, Machine Learning and Deep Learning
+# Techday 2018 : "Pop-up" pool detection using ArcGIS, Machine Learning and Deep Learning
 
 This repository is part of the Esri Suisse [Techday 2018](https://www.techday.ch/) workshop **"Digitale Explosion und «The Science of Where»"**
 ![pools](presImages/thisisapool.png)
