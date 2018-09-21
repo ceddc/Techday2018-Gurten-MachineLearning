@@ -92,7 +92,7 @@ pip install git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonA
 
 File (mask_rcnn_poolall.h5 , 250 Mb) for pool detection can be found here
 
-https://drive.google.com/file/d/1wZbFQKipZFdiukwjg5GgEazlzC1CSVBu/view?usp=sharing
+https://drive.google.com/open?id=1wZbFQKipZFdiukwjg5GgEazlzC1CSVBu
 
 
 ### Step 6 - Let's Test it!
