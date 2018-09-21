@@ -1,4 +1,4 @@
-# Techdays 2018 : "Pop-up" pool detection using ArcGIS, Machine Learning and Deep Learning
+# Techda 2018 : "Pop-up" pool detection using ArcGIS, Machine Learning and Deep Learning
 
 This repository is part of the Esri Suisse [Techday 2018](https://www.techday.ch/) workshop **"Digitale Explosion und «The Science of Where»"**
 ![pools](presImages/thisisapool.png)
@@ -96,11 +96,11 @@ https://drive.google.com/file/d/1wZbFQKipZFdiukwjg5GgEazlzC1CSVBu/view?usp=shari
 
 
 ### Step 6 - Let's Test it!
-open up the Techdays 2018.ipynb and run it
+open up the Techday 2018.ipynb and run it
 
 # Train your own
 
-Using labeled data and images, we trained out own model by launching the following command
+Using labeled data and images, we trained our own model by launching the following command
 
 ```
 python3 pool.py train --dataset=C:\ML\Mask_RCNN\pools --weights=coco
